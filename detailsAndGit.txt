@@ -1,0 +1,11 @@
+Name: Takudzwa Chikwanda
+Email: tchikwanda1@student.gsu.edu
+Panther ID: 002514332
+
+Data Mining Project: Predicting Car Accidents Recurrence in New York
+
+Git
+https://github.com/takchiks/datamining
+
+Car Crashes
+https://catalog.data.gov/dataset/motor-vehicle-crashes-case-information-beginning-2009
